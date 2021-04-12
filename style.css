@@ -68,7 +68,7 @@ html{
 }
 #home::before{
     content: "";
-    background:url('../food2.jpg') no-repeat center center/cover ;
+    background:url('https://muskangupta02.github.io/food-website/food2.jpg') no-repeat center center/cover ;
     position: absolute;
     height: 100%;
     width: 100%;
